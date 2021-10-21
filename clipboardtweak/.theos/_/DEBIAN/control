@@ -1,0 +1,10 @@
+Package: com.sacmunraga.clipboardtweak
+Name: ClipboardTweak
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Tim Shumeyko
+Author: Tim Shumeyko
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-97+debug
+Installed-Size: 204

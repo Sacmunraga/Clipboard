@@ -1,0 +1,10 @@
+Package: com.sacmunraga.clipboardcli
+Name: ClipBoardCLI
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: Tim Shumeyko
+Author: Tim Shumeyko
+Section: System
+Tag: role::hacker
+Version: 0.0.1-30+debug
+Installed-Size: 200
